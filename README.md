@@ -1,46 +1,46 @@
 # Olá, eu sou o Vitor Oliva Coelho! 👋
  
-### 🌐 Redes de Computadores | 💻 Desenvolvedor | São Paulo, SP
+### 🖥️ Suporte Técnico | Helpdesk N1/N2 | São Paulo, SP
  
-Estudante de Análise e Desenvolvimento de Sistemas com foco em redes de computadores. Estou construindo uma base sólida em infraestrutura, roteamento, protocolos e automação de redes — com projetos práticos e laboratórios hands-on para chegar preparado ao mercado.
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP com foco em **infraestrutura, redes e suporte ao usuário**. Certificado pela Cisco Networking Academy em hardware, redes e cibersegurança. Experiência prévia em atendimento ao cliente e comunicação clara — pronto para diagnosticar problemas, resolver chamados e entregar suporte de qualidade desde o primeiro dia.
  
 ---
  
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Habilidades Técnicas
  
 **Redes & Infraestrutura**
  
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005C84?style=for-the-badge&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-FF6B35?style=for-the-badge&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-6DB33F?style=for-the-badge&logoColor=white)
+![VLANs](https://img.shields.io/badge/VLANs-8B0000?style=for-the-badge&logoColor=white)
+ 
+**Sistemas Operacionais & Ferramentas**
+ 
+![Windows](https://img.shields.io/badge/Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Office 365](https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
  
-**Automação & Programação**
+**Hardware & Segurança**
  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
- 
-**Protocolos & Conceitos**
- 
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005C84?style=for-the-badge&logo=internetexplorer&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-FF6B35?style=for-the-badge&logo=cloudflare&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-6DB33F?style=for-the-badge&logo=google&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-8B0000?style=for-the-badge&logo=wireguard&logoColor=white)
-![HTTP/S](https://img.shields.io/badge/HTTP%2FS-005C84?style=for-the-badge&logo=http&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware%2FMontagem-555555?style=for-the-badge&logo=ifixit&logoColor=white)
+![Cibersegurança](https://img.shields.io/badge/Cibersegurança-2E8B57?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
  
 ---
  
-### 📜 Certificações — Roadmap
+### 📜 Certificações
  
-| Certificação | Foco | Status |
+| Certificação | Instituição | Ano |
 |---|---|---|
-| Cisco CCNA | Roteamento, Switching, Protocolos | 🎯 Em progresso |
-| CompTIA Network+ | Fundamentos de Redes | 🎯 Em progresso |
-| CompTIA Security+ | Segurança de Redes | 📅 Planejado |
-| Cisco CCNP | Redes Avançadas | 📅 Planejado |
+| Introdução à Cibersegurança | Cisco Networking Academy | 2026 |
+| Hardware and Upgrade Support | Cisco Networking Academy | 2026 |
+| Fundamentos do Hardware do Computador | Cisco Networking Academy | 2026 |
+| Conceitos Básicos de Redes | Cisco Networking Academy | 2026 |
+| Linux Fundamentos | FIAP | 2026 |
+| Gestão de Infraestrutura de TI | FIAP | 2026 |
  
 ---
  
@@ -48,19 +48,26 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em redes de computa
  
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [🌐 Rede SOHO — Packet Tracer](https://github.com/vitorolivacoelho/rede_soho_dhcp) | Rede com 3 sub-redes, DHCP, DNS e ACL estendida | Cisco PT, Roteamento |
-| [✅ Todo List](https://github.com/vitorolivacoelho/todo-list) | Aplicação de gerenciamento de tarefas | React, JavaScript, CSS |
+| [🌐 Rede SOHO — Packet Tracer](https://github.com/vitorolivacoelho/rede_soho_dhcp) | Rede segmentada com 3 sub-redes, roteamento inter-VLAN, DHCP, DNS e ACL estendida | Cisco PT, IPv4, ACL |
  
-> 🔧 Mais projetos sendo adicionados — laboratórios de roteamento dinâmico, VLANs e automação com Python estão a caminho.
-
+> 🔧 Mais laboratórios a caminho: troubleshooting de rede, Active Directory e simulações de helpdesk.
  
-### 📬 Onde me encontrar
+---
+ 
+### 🎯 Objetivo
+ 
+Atuar como **Analista de Suporte Técnico ou Técnico de Helpdesk N1/N2** — aplicando conhecimento em redes, hardware e sistemas operacionais para diagnóstico ágil, resolução de chamados e atendimento de qualidade ao usuário final.
+ 
+---
+ 
+### 📬 Contato
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorolivacoelho/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitorolivacoelho)
+[![E-mail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:vitorolivacoelho.p@proton.me)
  
 ---
  
 <div align="center">
-  <sub>Construindo conhecimento um projeto de cada vez. 🌐</sub>
+  <sub>Construindo conhecimento um projeto de cada vez. 🖥️</sub>
 </div>
