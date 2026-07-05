@@ -1,63 +1,74 @@
-# Olá, eu sou o Vitor Oliva Coelho! 👋
-
-### 💻 Backend Developer | Java • Spring Boot • REST APIs
-
-Estudante de Análise e Desenvolvimento de Sistemas na FIAP, focado no desenvolvimento de aplicações backend utilizando Java e Spring Boot.
-
-Tenho experiência prática na construção de APIs REST, autenticação com JWT, Docker, bancos de dados relacionais, testes automatizados e versionamento com Git.
-
-Meu objetivo é desenvolver aplicações escaláveis, seguindo boas práticas de arquitetura, código limpo e qualidade de software.
-
+# Vitor Oliva Coelho
+ 
+**Desenvolvedor Back-end Júnior · C# · Java · SQL · Docker**
+ 
+Desenvolvedor júnior com foco em back-end, APIs REST e integrações de sistemas. Atuo com C#, Java, Spring Boot, .NET Core, SQL e Docker na construção de soluções escaláveis, com atenção a qualidade de código, boas práticas e arquitetura limpa. Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com inglês avançado (C1).
+ 
 ---
-
-## 🚀 Tecnologias
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
-### Banco de Dados
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge)
-
+ 
+## 🛠️ Tech Stack
+ 
+**Backend & APIs**
+`C#` `.NET Core 8` `Java` `Spring Boot` `REST APIs` `JWT` `xUnit` `Entity Framework`
+ 
+**Banco de Dados**
+`Oracle` `SQL Server` `PostgreSQL`
+ 
+**Arquitetura**
+`Microsserviços` `DDD` `SOLID` `Clean Architecture` `MVVM`
+ 
+**Front-end**
+`React` `TypeScript` `JavaScript` `HTML` `CSS` `Kotlin` `Android`
+ 
+**DevOps & Cloud**
+`Docker` `Git` `GitHub` `CI/CD` `Linux`
+ 
+**Ferramentas**
+`Postman` `Insomnia` `VS Code` `Figma` `Power BI`
+ 
 ---
-
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| API de Gestão Ambiental | API REST com autenticação JWT, CRUD, testes automatizados e Docker | Java, Spring Boot, Oracle |
-| Sistema de Biblioteca | API para gerenciamento de livros e usuários | Java, Spring Boot |
-| EcoCompliance API | API para gerenciamento de emissões e licenças ambientais | Java, Spring Boot |
-
-> Novos projetos serão adicionados conforme evoluo meus estudos em arquitetura de software e desenvolvimento backend.
-
+ 
+## 📂 Projetos
+ 
+### [EcoComplianceAPI](https://github.com/vitorolivacoelho/EcoComplianceAPI)
+> API REST de conformidade ESG em C# e .NET Core 8
+ 
+- Autenticação JWT, banco Oracle e containerização Docker
+- 7/7 testes automatizados aprovados com xUnit — build limpo
+- Atuei como lead técnico: setup, infraestrutura, autenticação e documentação via Insomnia
+- **Stack:** `C#` `.NET Core 8` `Oracle` `JWT` `xUnit` `Docker`
 ---
-
-## 🎯 Objetivo
-
-Atuar como Desenvolvedor Backend Java, criando APIs robustas, escaláveis e bem estruturadas.
-
+ 
+### [ESG Compliance Ambiental API](https://github.com/vitorolivacoelho/ESGComplianceAPI)
+> API RESTful para controle de emissões CO2e e licenças ambientais
+ 
+- Endpoints com Bean Validation, regras de negócio e tratamento global de exceções
+- Controle de licenças ambientais e alertas de não conformidade
+- **Stack:** `Java` `Spring Boot` `Oracle` `Flyway` `Spring Security` `Docker`
 ---
-
+ 
+### [INOVA+](https://github.com/vitorolivacoelho/INOVA)
+> Plataforma mobile de inovação corporativa · Challenge Grupo Águia Branca
+ 
+- App Android nativo com 3 perfis de usuário (Operador, Gestor, Líder) e autenticação Firebase
+- Responsável pelo módulo de gamificação: sistema completo de ranking e pontos
+- Documentação técnica e vídeo demonstrativo da Sprint 1
+- **Stack:** `Kotlin` `Android` `Firebase` `Firestore` `MVVM`
+---
+ 
+## 📊 GitHub Stats
+ 
+![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorolivacoelho&show_icons=true&theme=dark&hide_border=true&count_private=true)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorolivacoelho&layout=compact&theme=dark&hide_border=true)
+ 
+---
+ 
 ## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorolivacoelho/)
-[![E-mail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:vitorolivacoelho.p@proton.me)
-
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorolivacoelho)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=protonmail&logoColor=white)](mailto:vitorolivacoelho.p@proton.me)
+ 
 ---
-
-<div align="center">
-  <sub>Building backend solutions, one project at a time. 🚀</sub>
-</div>
+ 
+*Aberto a oportunidades de estágio e vagas júnior em desenvolvimento back-end e full stack.*
