@@ -30,7 +30,7 @@ Desenvolvedor júnior com foco em back-end, APIs REST e integrações de sistema
  
 ## 📂 Projetos
  
-### [EcoComplianceAPI](https://github.com/vitorolivacoelho/EcoComplianceAPI)
+### [EcoComplianceAPI](https://github.com/vitorolivacoelho/EcoCompliance-API2)
 > API REST de conformidade ESG em C# e .NET Core 8
  
 - Autenticação JWT, banco Oracle e containerização Docker
@@ -39,7 +39,7 @@ Desenvolvedor júnior com foco em back-end, APIs REST e integrações de sistema
 - **Stack:** `C#` `.NET Core 8` `Oracle` `JWT` `xUnit` `Docker`
 ---
  
-### [ESG Compliance Ambiental API](https://github.com/vitorolivacoelho/ESGComplianceAPI)
+### [ESG Compliance Ambiental API](https://github.com/vlorenco/eco-compliance-api)
 > API RESTful para controle de emissões CO2e e licenças ambientais
  
 - Endpoints com Bean Validation, regras de negócio e tratamento global de exceções
