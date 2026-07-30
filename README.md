@@ -18,13 +18,13 @@ Desenvolvedor júnior com foco em back-end, APIs REST e integrações de sistema
 `Microsserviços` `DDD` `SOLID` `Clean Architecture` `MVVM`
  
 **Front-end**
-`React` `TypeScript` `JavaScript` `HTML` `CSS` `Kotlin` `Android`
+`JavaScript` `HTML` `CSS` `Kotlin`
  
 **DevOps & Cloud**
-`Docker` `Git` `GitHub` `CI/CD` `Linux`
+`Docker` `Git` `GitHub` `Linux`
  
 **Ferramentas**
-`Postman` `Insomnia` `VS Code` `Figma` `Power BI`
+`Insomnia` `VS Code` `Figma` `Power BI` `Excel`
  
 ---
  
